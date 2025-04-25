@@ -28,6 +28,8 @@ javac App.java FlappyBird.java
 java App
 # flappyBird
 ```
+### How to play
+Press space to raise the bird up and navigate through the gaps in the green pipes without crashing
 
 
 https://github.com/user-attachments/assets/7f75990f-ce05-4e9b-937b-4cc0ff740d65
