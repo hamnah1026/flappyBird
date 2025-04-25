@@ -23,8 +23,14 @@ A simple clone of the classic **Flappy Bird** game implemented using **Java**. T
 ### Compile and run the application:
 
 If using a terminal:
-
 ```bash
 javac App.java FlappyBird.java
 java App
 # flappyBird
+```
+
+
+https://github.com/user-attachments/assets/7f75990f-ce05-4e9b-937b-4cc0ff740d65
+
+
+
